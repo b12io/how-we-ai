@@ -15,4 +15,7 @@ to-dos
 - [ ] Add license: https://creativecommons.org/licenses/by-sa/4.0/
 - [ ] Write intro
 - [ ] Add chapters
+  - [x] Support, Product, Internal communication
+  - [ ] Marketing communication
+  - [ ] Limitations
 - [ ] Edit blog post
