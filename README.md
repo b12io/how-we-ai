@@ -12,10 +12,10 @@ Table of contents
 
 to-dos
 - [x] Create linked outline to chapters
-- [ ] Add license: https://creativecommons.org/licenses/by-sa/4.0/
-- [ ] Write intro
+- [x] Add license: https://creativecommons.org/licenses/by-sa/4.0/
 - [ ] Add chapters
   - [x] Support, Product, Internal communication
   - [ ] Marketing communication
   - [ ] Limitations
+- [ ] Write intro
 - [ ] Edit blog post
