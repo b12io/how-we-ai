@@ -1,5 +1,5 @@
 # How we AI
-A handbook to how B12 integrates and talks about AI
+A handbook on how B12 integrates and talks about AI
 
 Table of contents
   - **[Support communication](support.md)**. How we communicate AI-powered features in support articles, in particular to highlight benefits while underscoring limitations and potential risks.
