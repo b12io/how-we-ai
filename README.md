@@ -37,9 +37,10 @@ In the future, we hope to expand *How we AI* to include answers to other questio
 to-dos
 - [x] Create linked outline to chapters
 - [x] Add license: https://creativecommons.org/licenses/by-sa/4.0/
+- [x] Write intro
 - [ ] Add chapters
   - [x] Support, Product, Internal communication
   - [ ] Marketing communication
   - [ ] Limitations
-- [ ] Write intro
 - [ ] Edit blog post
+- [ ] Edit README intro
