@@ -31,7 +31,7 @@ In the future, we hope to expand *How we AI* to include answers to other questio
   - **[Product communication](product.md)**. Microcopy we embed in the product to quickly communicate considerations and limitations.
   - **[Internal communication](internal.md)**. How we introduce these tools to copywriting experts whose roles and responsibilities may change because of the technology.
   - **[Limitations](limitations.md)**. Examples of bias and other issues we have identified in our AI-powered tools.
-  - **Evaluation (*coming soon*)**. How we evaluate a new model and experience before its release to understand its limitations and identify some of its biases.
+  - **[Evaluation](evaluation.md)**. How we evaluate a new model and experience before its release to understand its limitations and identify some of its biases.
   - **Prototyping (*coming soon*)**. Our approach to building AI-powered prototypes, and how we mature these prototypes into customer-facing features.
 
 to-dos
