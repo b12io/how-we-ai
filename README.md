@@ -4,16 +4,16 @@ A handbook on how B12 integrates and talks about AI
 **Note: We have not finished writing this handbook, and it is a work in progress. We haven't publicly shared it yet, but it is public so that we can link to it in support documentation to identify limitations in our product-resident AI tools.**
 
 ## Draft of blog post
-Generative AI is at the awkward stage of its development: it's never been easier to integrate text or image generation into a product, and it's never been easier to overpromise the benefit of that integration.  
+Generative AI is at an awkward stage of its development: it's never been easier to integrate text or image generation into a product, and it's never been easier to overpromise the benefit of that integration.
 
-Take text generation, for example. From a software engineering perspective, text generation based on transformer models is already commoditized: you can prototype basic prompt-based copy generation or editing in a few days, and you can harden a product feature with it in another few days to ship. There are competing APIs for text generation, and they're simple enough to ship a prototype quickly.
+Take text generation, for example. From a software engineering perspective, text generation based on transformer models is already commoditized: you can prototype basic prompt-based copy generation or editing in a few days, and you can ship that feature a few days later. There are competing APIs for text generation, and they're simple enough to ship a prototype quickly. That was B12's experience when we implemented [website/blog/email copy generation in the B12 editor](https://support.b12.io/en/articles/6992915-generating-text-with-help-from-ai-assist).
 
-While it took B12 a week to ship our first copy generation feature in the product, it took longer ot figure out how to speak about it. We struggled with questions like
- - For our customers, how do we explain their responsibilities in using the tool, the limitations of the tool, and the bias baked into the model?
+While it took B12 a week to ship our first copy generation feature in the product, it took longer ot figure out how to speak about it. In launching, we struggled with questions like
+ - For our customers, how do we explain their responsibilities in using the tool, the limitations of the tool, and the bias baked into the tool's text generation model?
  - For copywriting experts who create content for our customers, how should we explain the changes they would see in their roles and the expectations we'd have around correctness, quality, and efficiency?
  - For ourselves, how should we evaluate the tools, prompts, and models we built to understand the hard edges of the model in terms of bias, correctness, and plagiarism?
 
-Effectively, we're left wondering how to talk about AI. We imagine that anyone releasing products and features that bake in some form of generative AI face this question.
+Effectively, we were left wondering how to talk about AI. We imagine that any organization releasing products and features that bake in some form of generative AI face this problem.
 
 For lack of any one group knowing how to best communicate about AI-powered tools, the best we can offer is transparency into how we do it ourselves. To that end, we're releasing a handbook called *How we AI* that talks about how B12 understands and communicates AI in our product. We're liberally licensing *How we AI* under a [permissive license (with attribution)](LICENSE.md) so that other organizations can use what they want while making changes that match their own needs and limitations. We hope that releasing *How we AI* opens B12 to critique while enabling a conversation around the best way to build AI into products.
 
