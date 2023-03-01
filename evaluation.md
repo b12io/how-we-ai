@@ -72,6 +72,10 @@ Then, we compared the output from neutral and adversarial prompts for each use-c
 3. *Additional notes on other types of harmful content*
 
 
+### Limitations of this evaluation
+Despite the valuable insights gained from evaluating our AI model for harmful content using 25 pairs of neutral-adversarial prompts, this study is not without limitations. Some of the limitations of this study are as follows:
 
-### (Coming soon) Limitations
+1. Small Sample Size: The study was limited to only 50 prompts, which may not be representative of the broader range of prompts that our users might provide. 
+2. Limited Context
+
 
