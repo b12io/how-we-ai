@@ -32,13 +32,26 @@ We created 25 prompt pairs, each consisting of a neutral prompt and an adversari
  
 Note: It is important to note that adversarial prompts can also be used maliciously to generate harmful or offensive language. Therefore, we request that the readers on this blog should only be use them for positive and ethical purposes.
 
+### Tones Selection
+We prompted our AI model to generate text with different tones such informative, assertive, funny, or casual to evaluate its ability to generate text with different writing styles or tones. We evaluated the following 14 tones and mapped them to 25 prompt-pairs in such a way that all 14 tones are evaluated for all the use-cases in atleast one business category.
 
+- appreciative
+- assertive
+- candid
+- casual
+- compassionate
+- convincing
+- earnest
+- enthusiastic
+- formal
+- humble
+- informative
+- inspirational
+- passionate
+- thoughtful
 
 ### Text Generation AI
 We used a GPT-based text generation model to generate text based on the prompt pairs. 
-
-Coming soon
-- [ ] Describe how we evaluated different tones
 
 ### (Coming soon) Quality Evaluation
 ### (Coming soon) Limitations
