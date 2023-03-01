@@ -1,6 +1,8 @@
 # How we AI
 A handbook on how B12 integrates and talks about AI
 
+**Note: We have not finished writing this handbook, and it is a work in progress. We haven't publicly shared it yet, but it is public so that we can link to it in support documentation to identify limitations in our product-resident AI tools.**
+
 ## Draft of blog post
 Generative AI is at the awkward stage of its development: it's never been easier to integrate text or image generation into a product, and it's never been easier to overpromise the benefit of that integration.  
 
