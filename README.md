@@ -42,7 +42,8 @@ to-dos
 - [x] Write intro
 - [ ] Add chapters
   - [x] Support, Product, Internal communication
+  - [x] Limitations
   - [ ] Marketing communication
-  - [ ] Limitations
+  - [ ] Prototyping
 - [ ] Edit blog post
 - [ ] Edit README intro
