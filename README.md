@@ -29,8 +29,8 @@ In the future, we hope to expand *How we AI* to include answers to other questio
   - **[Support communication](support.md)**. How we communicate AI-powered features in support articles, in particular to highlight benefits while underscoring limitations and potential risks.
   - **[Product communication](product.md)**. Microcopy we embed in the product to quickly communicate considerations and limitations.
   - **[Internal communication](internal.md)**. How we introduce these tools to copywriting experts whose roles and responsibilities may change because of the technology.
-  - **[Limitations](limitations.md)**. Examples of bias and other issues we have identified in our AI-powered tools.
   - **[Evaluation](evaluation.md)**. How we evaluate a new model and experience before its release to understand its limitations and identify some of its biases.
+  - **[Limitations](limitations.md)**. Examples of bias and other issues we have identified in our AI-powered tools.
   - **Marketing communication (*coming soon*)**. How we describe the features in a customer newsletter in a way that's both enticing and realistic.
   - **Prototyping (*coming soon*)**. Our approach to building AI-powered prototypes, and how we mature these prototypes into customer-facing features.
 
