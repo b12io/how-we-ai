@@ -1,0 +1,6 @@
+[book]
+authors = ["Adam Marcus"]
+language = "en"
+multilingual = false
+src = "src"
+title = "How we AI"

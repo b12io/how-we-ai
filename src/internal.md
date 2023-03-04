@@ -13,5 +13,11 @@ We believe that while these tools can help spark creativity and will likely save
 Thank you to *<list of team members>* for review and feedback on the first version of this tool. We're actively seeking out feedback, **so send me a message if you use the tool**. We'd love to speak with you in a paid feedback session.
 
 *<transparency note: this is the video we released with the announcement, but the interface has since changed>*
-  
-https://user-images.githubusercontent.com/57725/221270286-25ae07e4-16e6-428d-8a09-b6536dbf5a4a.mp4
+
+<video
+    src="https://user-images.githubusercontent.com/57725/221270286-25ae07e4-16e6-428d-8a09-b6536dbf5a4a.mp4"
+    data-canonical-src="https://user-images.githubusercontent.com/57725/221270286-25ae07e4-16e6-428d-8a09-b6536dbf5a4a.mp4"
+    controls="controls"
+    muted="muted"
+    style="max-height:640px; min-height: 200px">
+</video>
