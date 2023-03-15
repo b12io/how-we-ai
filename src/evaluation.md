@@ -1,8 +1,5 @@
 # Evaluation
-As with any artificial intelligence language model, GPT-3 has the potential to generate harmful language and perpetuate biases. It might generate harmful content due to biases in training data, lack of context, or failure to detect malicious prompt design. In this evaluation, we studied its susceptibility in the context of professional services business websites (B12's ideal customer profile is in professional services).
-
-## Goals
-- (Coming soon) List of research questions goes here
+Large language models have the potential to generate harmful language and perpetuate biases. These models might generate harmful content due to biases in training data, lack of context, or failure to detect malicious prompt design. In this evaluation, we study models' susceptibility in the context of professional services business websites (B12's ideal customer profile is in professional services).
 
 ## Procedure
 
