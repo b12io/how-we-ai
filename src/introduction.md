@@ -17,11 +17,12 @@ Effectively, we were left wondering how to talk about and test product functiona
 For lack of a shared understanding of how to best communicate about AI-powered tools, the best we can offer is transparency into how we do it ourselves. To that end, we're releasing [a handbook called *How we AI*](https://www.b12.io/how-we-ai/) that explains how B12 understands and communicates AI in our product. We're licensing *How we AI* under a [permissive CC-BY-SA-4.0 license](https://github.com/b12io/how-we-ai/blob/main/LICENSE.md) so that other organizations can use any element they want while making changes that match their needs. We hope that releasing *How we AI* opens B12 to constructive critique while enabling a conversation around the best way to build and talk about AI-enabled products.
 
 *How we AI* is a work in progress. Today's edition speaks to:
+- How we evaluate a model and experience before its release to understand its limitations and identify some of its biases.
+- Examples of bias and other issues we have identified in our AI-powered tools.
 - How we communicate AI-powered features in support articles, in particular to highlight benefits while underscoring limitations and potential risks.
 - Microcopy we embed in the product to quickly communicate considerations and limitations.
 - How we introduce these tools to copywriting experts whose roles and responsibilities may change because of the technology.
-- How we evaluate a model and experience before its release to understand its limitations and identify some of its biases.
-- Examples of bias and other issues we have identified in our AI-powered tools.
+
 
 In the future, we hope to expand *How we AI* to discuss:
 - How we describe the features in a customer newsletter in a way that's both enticing and realistic.
