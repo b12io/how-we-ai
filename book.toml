@@ -6,5 +6,5 @@ src = "src"
 title = "How we AI"
 
 [output.html]
-git-repository-url = "https://github.com/b12io/how-we-ai/tree/main"
+git-repository-url = "https://github.com/b12io/how-we-ai/"
 edit-url-template = "https://github.com/b12io/how-we-ai/edit/main/{path}"
