@@ -7,3 +7,4 @@
 - [Where AI breaks](ai-breaks.md)
   - [Evaluation](evaluation.md)
   - [Examples of limitations](limitations-examples.md)
+- [Credits & contributors](credits.md)
