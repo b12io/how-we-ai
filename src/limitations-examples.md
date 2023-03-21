@@ -1,6 +1,6 @@
 # Examples of limitations
 
-Before releasing generative AI functionality in our product, we follow our [evaluation procedure](evaluation.md) to generates examples inspired by the literature that are known to cause problematic outputs from the current generation of text generation models. In this document, we've outlined the issues that the team has identified through this process or after launch.
+Before releasing generative AI-powered functionality in our product, we follow our [evaluation procedure](evaluation.md) to generate examples inspired by the literature that are known to cause problematic outputs from the current generation of text generation models. In this document, we've outlined the issues that the team has identified through this process or after launch.
 
 ## February/March 2023 evaluation of professional service website/email copy
 We generated text based on 40 example prompts (20 neutral/adversarial pairings) using the [text generation interface in the B12 Editor](support.md). Five evaluators were prompted to identify issues along several criteria. Here is a list of the issues the evaluators identified, summarized by evaluation criteria:
