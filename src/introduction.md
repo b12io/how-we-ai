@@ -25,6 +25,7 @@ For lack of a shared understanding of how to best communicate about AI-powered t
 
 
 In the future, we hope to expand *How we AI* to discuss:
+- How we monitor a released AI-powered experience over time to prevent regressions in bias or other problematic behaviors. 
 - How we describe the features in a customer newsletter in a way that's both enticing and realistic.
 - Our approach to building AI-powered prototypes, and how we mature these prototypes into customer-facing features.
 
