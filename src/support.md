@@ -1,5 +1,5 @@
 # Support communication
-This support article descibing AI Assist (our text generation feature) is live on [our support center](https://support.b12.io/en/articles/6992915-generating-text-with-help-from-ai-assist). We've replicated it here for completeness.
+This support article describing AI Assist (our text generation feature) is live on [our support center](https://support.b12.io/en/articles/6992915-generating-text-with-help-from-ai-assist). We've replicated it here for completeness.
 
 ## Generating text with help from AI Assist
 Understanding a tool to help you start writing, as well as its limitations
