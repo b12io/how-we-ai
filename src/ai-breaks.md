@@ -1,2 +1,2 @@
 # Where AI breaks
-With some experience having deployed generative AI in our product, we now turn to how we evaluate the tools we build with it. Through our limited evaluation, we provide examples of actual bias, accuracy, and grammatical issues we've identified in our tools.
+In this section, we describe how we evaluate the tools we build with AI at B12. Through our limited evaluation of models we've shipped to production, we provide examples of actual bias, accuracy, and grammatical issues we've identified in our tools.
