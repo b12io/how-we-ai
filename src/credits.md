@@ -4,7 +4,7 @@ In no particular order, B12 wishes to thank:
 * Aditya Bharadwaj and Shreya Bamne for outlining our initial evaluation procedures.
 * Shreya Bamne, Aditya Bharadwaj, Katelyn Gray, Daniel Haas, and Adam Marcus for performing our first model evaluation.
 * Aditya Bharadwaj and Adam Marcus for writing portions of the handbook, and Meredith Blumenstock for co-creating and editing the initial version.
-* Timothy Danford for providing feedback on early versions of the handbook.
+* Shreya Bamne, Ted Benson, Timothy Danford, Daniel Haas, and Katelyn Gray for providing feedback on early versions of the handbook.
 * B12 copywriting experts and customers who used early versions of the product experience.
 
 We are also thankful to the people who created the foundation models on which most of this work relies:
