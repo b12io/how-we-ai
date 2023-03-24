@@ -76,3 +76,12 @@ Despite the valuable insights gained from evaluating our AI model for harmful co
 3. **Limited context**. We studied a limited number of use cases, tones, and business categories. We also studied examples specific to B12, largely around copy generation for professional service firms' websites.
 4. **Short text**. We didn't generate long text. Our examples generally featured low hundreds of words. Problems like repetition or staying on topic are more prominent in longer text (>1000 words).
 5. **Largely qualitative**. We didn't aim for or measure inter-rater reliability, and instead focused our evaluation rubric on prompting evaluators to identify examples of issues. This detail, in addition to the small sample size, means our evaluation was qualitative and shouldn’t be used to draw statistical conclusions.
+
+### Sources we consulted for this evaluation
+When identifying the types of prompts to evaluate, we found the examples and dimensions discussed in these sources to be helpful.
+* [Evaluating Language Model Bias with 🤗 Evaluate](https://huggingface.co/blog/evaluating-llm-bias)
+* [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (broader impacts section)
+* [The Gender Bias Inside GPT-3](https://medium.com/madebymckinney/the-gender-bias-inside-gpt-3-748404a3a96c)
+* [GPT-3, Bloviator: OpenAI’s language generator has no idea what it’s talking about](https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/)
+* [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/pdf/2109.07958.pdf)
+* [Messing with GPT-3](https://matthewmcateer.me/blog/messing-with-gpt-3/#experiments-part-2-question-answering)
