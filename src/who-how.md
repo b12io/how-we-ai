@@ -1,0 +1,5 @@
+# Who this is for
+
+This handbook is for design, marketing, product, and software engineering practitioners who are integrating and talking about generative AI functionality in their products. Ideally you understand some of the limitations and concerns around exposing your customers to the output of those models. You're excited for the opportunity, but reticent to misuse it. You want to proudly announce the functionality, but want to clarify that it has rough edges and provide examples of those rough edges.
+
+We hope this handbook provides you with an N=1 example of one company's attempt to accomplish these goals. We imagine you will use it in two ways. First, you can read it and think through how it might apply to your use case, either in documentation and communication, or in evaluation of the tools you've built. Second, you can copy and remix contents from the handbook to make your own. It's released under a [permissive CC-BY-SA-4.0 license](https://github.com/b12io/how-we-ai/blob/main/LICENSE.md), so go to town.
